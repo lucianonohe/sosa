@@ -1,0 +1,292 @@
+{
+    "DRILL ERA": {
+        "collections": {
+            "Back from The Dead": {
+                "zip": "http://",
+                "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Chief-keef-cover-mixtape.png/220px-Chief-keef-cover-mixtape.png",
+                "type": "mixtape",
+                "songs": {
+                    "Monster": {
+                        "info": {
+                            "released": "2012",
+                            "length": 218,
+                            "producers": ["Young Chop"]
+                        },
+                        "availability": {
+                            "Soundcloud": "https://soundcloud.com/chiefkeef/monster",
+                            "CDQ": "gdrive link"
+                        }
+                    },
+                    "My Niggas": {
+                        "info": {
+                            "released": "2012",
+                            "length": 223,
+                            "featuring": ["SD"],
+                            "producers": ["Young Chop"]
+                        },
+                        "availability": {
+                            "Soundcloud": "https://soundcloud.com/chiefkeef/my-niggas",
+                            "CDQ": "gdrive link"
+                        }
+                    },
+                    "Sosa": {
+                        "info": {
+                            "released": "2012",
+                            "length": 202,
+                            "producers": ["Young Chop"]
+                        },
+                        "availability": {
+                            "Soundcloud": "https://soundcloud.com/chiefkeef/sosa",
+                            "CDQ": "gdrive link"
+                        }
+                    },
+                    "Winnin": {
+                        "info": {
+                            "released": "2012",
+                            "length": 238,
+                            "featuring": ["King Louie"],
+                            "producers": ["Young Chop"]
+                        },
+                        "availability": {
+                            "Soundcloud": "https://soundcloud.com/chiefkeef/winnin",
+                            "CDQ": "gdrive link"
+                        }
+                    },
+                    "I Don't Like": {
+                        "info": {
+                            "released": "2012",
+                            "length": 321,
+                            "featuring": ["Lil Reese"],
+                            "producers": ["Young Chop"]
+                        },
+                        "availability": {
+                            "Soundcloud": "https://soundcloud.com/chiefkeef/i-dont-like",
+                            "CDQ": "tbd"
+                        }
+                    },
+                    "True Religion Fein": {
+                        "info": {
+                            "released": "2012",
+                            "length": 240,
+                            "featuring": ["Yale Lucciani"],
+                            "producers": ["Young Chop"]
+                        },
+                        "availability": {
+                            "Soundcloud": "https://soundcloud.com/chiefkeef/true-religion-fein",
+                            "CDQ": "tbd"
+                        }
+                    },
+                    "Designer": {
+                        "info": {
+                            "released": "2012",
+                            "length": 142,
+                            "producers": ["Young Chop"]
+                        },
+                        "availability": {
+                            "Soundcloud": "https://soundcloud.com/chiefkeef/designer",
+                            "CDQ": "tbd"
+                        }
+                    },
+                    "I Dont Know Dem": {
+                        "info": {
+                            "released": "2012",
+                            "length": 255,
+                            "producers": ["Young Chop"]
+                        },
+                        "availability": {
+                            "Soundcloud": "https://soundcloud.com/chiefkeef/i-dont-know-dem",
+                            "YouTube": "https://www.youtube.com/watch?v=qLo-Lw6idVU",
+                            "CDQ": "tbd"
+                        }
+                    },
+                    "Everyday": {
+                        "info": {
+                            "released": "2012",
+                            "length": 208,
+                            "producers": ["Young Chop"]
+                        },
+                        "availability": {
+                            "Soundcloud": "https://soundcloud.com/chiefkeef/everyday",
+                            "YouTube": "https://www.youtube.com/watch?v=tD3xowIXjAA",
+                            "CDQ": "tbd"
+                        }
+                    },
+                    "Trust None": {
+                        "info": {
+                            "released": "2012",
+                            "length": 168,
+                            "featuring": ["Johnny Maycash"],
+                            "producers": ["Young Chop"]
+                        },
+                        "availability": {
+                            "Soundcloud": "https://soundcloud.com/chiefkeef/trust-none",
+                            "CDQ": "tbd"
+                        }
+                    },
+                    "Save That Shit": {
+                        "info": {
+                            "released": "2012",
+                            "length": 124,
+                            "producers": ["Young Chop"]
+                        },
+                        "availability": {
+                            "Soundcloud": "https://soundcloud.com/chiefkeef/save-that-shit2",
+                            "128kbps mp3 (original version)": "tbd",
+                            "CDQ (remix ft. Soulja Boy)": "tbd"
+                        }
+                    },
+                    "3Hunna (Remix)": {
+                        "info": {
+                            "released": "2012",
+                            "length": 214,
+                            "featuring": ["Soulja Boy"],
+                            "producers": ["Young Chop"]
+                        },
+                        "availability": {
+                            "Soundcloud": "https://soundcloud.com/chiefkeef/3hunna-remix",
+                            "CDQ": "tbd"
+                        }
+                    }
+                }
+            },
+            "Finally Rich": {
+                "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/CKFinallyRichStandard.png",
+                "type": "album",
+                "songs": {
+                    "Love Sosa": {
+                        "info": {
+                            "length": 520,
+                            "producers": ["Young Chop"]
+                        },
+                        "availability": {
+                            "Soundcloud": "http://fafa",
+                            "YouTube": "http://xxx",
+                            "CDQ": "tbd"
+                        }
+                    },
+                    "Hallelujah": {
+                        "info": {
+                            "length": 520,
+                            "producers": ["Young Chop"]
+                        },
+                        "availability": {
+                            "YouTube": "http://xxx",
+                            "Soundcloud": "http://fafa",
+                            "CDQ": "tbd"
+                        }
+                    },
+                    "I Don't Like": {
+                        "info": {
+                            "length": 520,
+                            "producers": ["Young Chop"]
+                        },
+                        "availability": {
+                            "YouTube": "http://xxx",
+                            "Soundcloud": "http://fafa",
+                            "CDQ": "tbd",
+                            "Mixtape Version": "tbd"
+                        }
+                    },
+                    "No Tomorrow": {
+                        "info": {
+                            "length": 520,
+                            "producers": ["Young Chop"]
+                        },
+                        "availability": {
+                            "YouTube": "http://xxx",
+                            "Soundcloud": "http://fafa",
+                            "Download": "tbd"
+                        }
+                    },
+                    "Hate Bein Sober": {
+                        "info": {
+                            "length": 520,
+                            "producers": ["Young Chop"]
+                        },
+                        "availability": {
+                            "YouTube": "http://xxx",
+                            "Soundcloud": "http://fafa",
+                            "Download": "tbd"
+                        }
+                    }
+                }
+            }
+        },
+        "loosies": {
+            "Savage": {
+                "info": {
+                    "length": 324,
+                    "quality": "CDQ",
+                    "producers": ["Young Chop"]
+                },
+                "availability": {
+                    "YouTube": "http://xxx",
+                    "Soundcloud": "http://fafa",
+                    "Download": "tbd"
+                },
+                "image": "https://i.imgur.com/SJqslBr.png"
+            },
+            "Shine": {
+                "info": {
+                    "length": 324,
+                    "quality": "CDQ",
+                    "producers": ["Young Chop"]
+                },
+                "availability": {
+                    "YouTube": "http://xxx",
+                    "Soundcloud": "http://fafa",
+                    "Download": "tbd"
+                },
+                "image": "https://i.imgur.com/SJqslBr.png"
+            },
+            "Doritos Day": {
+                "info": {
+                    "length": 324,
+                    "quality": "Snippet",
+                    "producers": ["Young Chop"]
+                },
+                "availability": {
+                    "YouTube": "http://xxx",
+                    "Soundcloud": "http://fafa",
+                    "Download": "tbd"
+                },
+                "image": "https://i.imgur.com/SJqslBr.png"
+            }
+        }
+    },
+    "LEAN ERA": {
+        "collections": {
+            "Some Album": {
+                "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/CKFinallyRichStandard.png",
+                "type": "album",
+                "songs": {
+                    "Love Sosa": {
+                        "info": {
+                            "length": 520,
+                            "producers": ["Young Chop"]
+                        },
+                        "availability": {
+                            "Soundcloud": "http://fafa",
+                            "YouTube": "http://xxx",
+                            "CDQ": "tbd"
+                        }
+                    }
+                }
+            }
+        },
+        "loosies": {
+            "Savage": {
+                "info": {
+                    "length": 324,
+                    "quality": "CDQ",
+                    "producers": ["Young Chop"]
+                },
+                "availability": {
+                    "YouTube": "http://xxx",
+                    "Soundcloud": "http://fafa",
+                    "Download": "tbd"
+                }
+            }
+        }
+    }
+}
